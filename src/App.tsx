@@ -69,7 +69,7 @@ function App() {
         <h1 className="text-4xl font-bold text-white py-8">Behind the Words</h1>
         <textarea
           className="textarea w-full bg-[#2D2C2C] text-white"
-          placeholder="Bio"
+          placeholder="Type an essay..."
           rows={12}
         />
       </div>
