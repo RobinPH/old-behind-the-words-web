@@ -63,7 +63,7 @@ function App() {
   return (
     <div
       data-theme="night"
-      className="px-48 py-8 flex flex-col items-center gap-8"
+      className="px-8 sm:px-16 md:px-32 lg:px-48 py-8 flex flex-col items-center gap-8"
     >
       <div className="w-full flex flex-col items-center">
         <h1 className="text-4xl font-bold text-white py-8">Behind the Words</h1>
