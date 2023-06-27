@@ -12,7 +12,7 @@ const gradientArray = new Gradient()
   .setColorGradient("#2D2C2C", "#e82c07")
   .getColors();
 
-const EVALUATOR_URL = "http://188.166.222.17:8080/evaluate_essay";
+const EVALUATOR_URL = "https://188.166.222.17:8080/evaluate_essay";
 
 function App() {
   const [loading, setLoading] = useState(false);
